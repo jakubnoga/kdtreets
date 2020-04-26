@@ -1,0 +1,31 @@
+{
+  "name": "kdtree",
+  "version": "1.0.0",
+  "description": "Multidimensional nearest neighbour search algorithm based on k-d tree",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakubnoga/kdtree.git"
+  },
+  "keywords": [
+    "kdtree",
+    "k-d",
+    "tree"
+  ],
+  "author": "Jakub Noga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakubnoga/kdtree/issues"
+  },
+  "homepage": "https://github.com/jakubnoga/kdtree#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.4.0",
+    "ts-jest": "^25.4.0",
+    "typescript": "^3.8.3"
+  }
+}
